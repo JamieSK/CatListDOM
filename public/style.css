@@ -1,0 +1,10 @@
+#cats ul li {
+  list-style-type: none;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 0.83);
+}
+
+#cats ul li img {
+  border: 3px solid rgba(0, 0, 0, 0.83);
+  border-radius: 50%;
+}
